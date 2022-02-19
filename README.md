@@ -15,7 +15,7 @@ To utilize ROS AMCL package to accurately localize a mobile robot inside a map i
    $ sudo apt-get install libignition-math2-dev protobuf-compiler
    ```
 ## Build
-After cloning the repo to the src folder of catkin workspace, open a new terminal and run 
+Open a new terminal and run 
 ```
 $ cd <Your catkin workspace>
 $ catkin_make
@@ -55,7 +55,7 @@ World file to setup the environment in Gazebo, located in the **my_robot** packa
 - odom_alpha2
 - odom_alpha3
 - odom_alpha4  
-## Running the Scripts
+## Running the Codes
 1. Open a new terminal and run
    ```
    roslaunch amcl.launch
