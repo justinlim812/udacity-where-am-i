@@ -66,11 +66,11 @@ World file to setup the environment in Gazebo, located in the **my_robot** packa
    ```
 ## Demonstration 
 1. Robot at initial pose
-   ![Robot-at-initial-pose](https://github.com/justinlim812/udacity_project_where_am_i/blob/master/1.%20Robot%20at%20Initial%20Pose.png?raw=true)
+   ![Robot-at-initial-pose](https://github.com/justinlim812/udacity_project_where_am_i/blob/master/demo/1.%20Robot%20at%20Initial%20Pose.png?raw=true)
 2. Robot started localizing
-   ![Robot-started-localizing](https://github.com/justinlim812/udacity_project_where_am_i/blob/master/2.%20Robot%20Started%20Localizing%20(Moving).png?raw=true)
+   ![Robot-started-localizing](https://github.com/justinlim812/udacity_project_where_am_i/blob/master/demo/2.%20Robot%20Started%20Localizing%20(Moving).png?raw=true)
 3. Robot localized
-   ![Robot-localized](https://github.com/justinlim812/udacity_project_where_am_i/blob/master/3.%20Robot%20Localized.png?raw=true)
+   ![Robot-localized](https://github.com/justinlim812/udacity_project_where_am_i/blob/master/demo/3.%20Robot%20Localized.png?raw=true)
 4. The Localization Process
    A video showing the localization process can be found in the `demo` folder.
 ## Create Your Own Map (Optional)
