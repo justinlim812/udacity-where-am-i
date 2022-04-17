@@ -1,4 +1,4 @@
-# Udacity Project: Where am I
+l# Udacity Project: Where am I
 To utilize ROS AMCL package to accurately localize a mobile robot inside a map in the Gazebo simulation environments.
 ## Prerequisite before Building  
 1. Install ROS navigation package
@@ -64,6 +64,15 @@ World file to setup the environment in Gazebo, located in the **my_robot** packa
    ```
    rosrun teleop_twist_keyboard teleop_twist_keyboard.py
    ```
+## Demonstration 
+1. Robot at initial pose
+   ![Robot-at-initial-pose](https://github.com/justinlim812/udacity_project_where_am_i/blob/master/1.%20Robot%20at%20Initial%20Pose.png?raw=true)
+2. Robot started localizing
+   ![Robot-started-localizing](https://github.com/justinlim812/udacity_project_where_am_i/blob/master/2.%20Robot%20Started%20Localizing%20(Moving).png?raw=true)
+3. Robot localized
+   ![Robot-localized](https://github.com/justinlim812/udacity_project_where_am_i/blob/master/3.%20Robot%20Localized.png?raw=true)
+4. The Localization Process
+   ![Localization-process](https://github.com/justinlim812/udacity_project_where_am_i/blob/master/Udacity_Project_Where_am_I.ogg?raw=true)
 ## Create Your Own Map (Optional)
 #### It is also possible to create your own map.pgm file using your own Gazebo world file. To do this:  
 1. First, copy your world file into `/pgm_map_creator/world/`.  
