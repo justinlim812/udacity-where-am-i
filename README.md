@@ -1,4 +1,4 @@
-l# Udacity Project: Where am I
+# Udacity Project: Where am I
 To utilize ROS AMCL package to accurately localize a mobile robot inside a map in the Gazebo simulation environments.
 ## Prerequisite before Building  
 1. Install ROS navigation package
