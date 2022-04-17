@@ -72,7 +72,7 @@ World file to setup the environment in Gazebo, located in the **my_robot** packa
 3. Robot localized
    ![Robot-localized](https://github.com/justinlim812/udacity_project_where_am_i/blob/master/3.%20Robot%20Localized.png?raw=true)
 4. The Localization Process
-   ![Localization-process](https://github.com/justinlim812/udacity_project_where_am_i/blob/master/Udacity_Project_Where_am_I.ogg?raw=true)
+   A video showing the localization process can be found in the `demo` folder.
 ## Create Your Own Map (Optional)
 #### It is also possible to create your own map.pgm file using your own Gazebo world file. To do this:  
 1. First, copy your world file into `/pgm_map_creator/world/`.  
